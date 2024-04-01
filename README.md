@@ -48,7 +48,7 @@ To run the analysis:
 
 - `lending_data.csv`: CSV file containing the lending data.
   
-- Credit Risk Challenge Analysis : Word Document with a report analysis of the machine leraning used, accuracy, and summary
+- `Credit Risk Challenge Analysis` : Word Document with a report analysis of the machine leraning used, accuracy, and summary
   
 - `README.md`: This file providing an overview of the repository.
 
