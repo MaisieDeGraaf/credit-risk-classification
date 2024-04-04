@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and analysis for predicting credit risk using logistic regression. The analysis utilizes a dataset of lending data to train a logistic regression model to predict whether a loan is high-risk or healthy based on various financial factors.
+This repository contains code and analysis for predicting credit risk using logistic regression. The analysis utilizes a dataset of lending data to train a logistic regression model to predict whether a loan is high-risk or healthy based on various financial factors. Please see the bottom of the ReadMe for a summary of the findings.
 
 ## Dataset
 
@@ -24,7 +24,7 @@ The lending data used for analysis is stored in a CSV file named `lending_data.c
   
 - loan_status (target variable)
 
-## Analysis
+## Notebook Usage
 
 The analysis is performed in a Jupyter Notebook named `credit_risk_analysis.ipynb`. The notebook contains the following main sections:
 
@@ -59,7 +59,9 @@ To run the analysis:
 - NumPy
 - Scikit-learn
 
-## Loan Risk Machine Learning Report Analysis
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+# Loan Risk Machine Learning Report Analysis
 
 ### Purpose of Analysis
 
